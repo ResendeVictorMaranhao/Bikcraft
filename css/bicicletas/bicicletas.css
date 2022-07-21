@@ -77,6 +77,8 @@
 @media (max-width:800px){
     .bicicletas-bg{
         background: var(--cor-11);
+
+       /* box-shadow: inset 300px 0px white;*/ /*n é a solução ideal pq ela perda a sombra*/
     }
     .bicicletas{
         grid-template-columns: 1fr;
