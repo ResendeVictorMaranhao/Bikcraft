@@ -19,6 +19,11 @@
 @import "./bicicletas/bicicletas.css";
 
 
+/*Bicicleta*/
+@import 'bicicleta/bicicleta.css';
+
+
+
 /*seguros*/
 @import "./seguros/seguros.css";
 @import "./seguros/perguntas.css";
