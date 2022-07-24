@@ -16,6 +16,8 @@
   text-transform: uppercase;
   font: 600 1.125rem/1.35 "Poppins", sans-serif;
   max-width: max-content;
+  cursor: pointer;
+  border: none;
 
 }
 
@@ -92,5 +94,13 @@ color: var(--cor-0);
     font-size: 1rem;
     text-transform: lowercase;
     font-weight: 400;
+  }
+}
+@media (max-width:600px){
+  .form{
+    grid-template-columns: 1fr;
+  }
+  .form .col2{
+    grid-template-columns: 1fr;
   }
 }
