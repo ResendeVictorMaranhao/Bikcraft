@@ -88,7 +88,7 @@ color: var(--cor-0);
 @media (max-width:800px){
   .titulo{
     padding-top: 40px;
-    padding-bottom: 40p;
+    padding-bottom: 40px;
   }
   .titulo p{
     font-size: 1rem;
